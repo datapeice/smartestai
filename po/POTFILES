@@ -1,0 +1,6 @@
+data/com.datapeice.smartestai.desktop.in
+data/com.datapeice.smartestai.metainfo.xml.in
+data/com.datapeice.smartestai.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
